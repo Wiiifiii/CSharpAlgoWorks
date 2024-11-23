@@ -1,0 +1,77 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono)
+mono_crash.*
+
+# User-specific files (VSCode)
+.vscode/
+
+# User-specific files (Rider)
+.idea/
+
+# User-specific files (JetBrains Rider)
+.idea/
+*.sln.iml
+
+# Auto-generated files
+*.log
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2019
+.vs/
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.backup
+*.swp
+*.swo
+*.swn
+*.sublime-workspace
+*.sublime-project
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
