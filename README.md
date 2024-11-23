@@ -31,7 +31,7 @@ This repository contains implementations of various algorithms written in C#. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/CSharpAlgorithms.git
+   git clone [https://github.com/Wiiifiii/SharpAlgorithms.git]
    cd CSharpAlgorithms
 2. Open the project in Visual Studio.
 
