@@ -1,4 +1,4 @@
-# CSharpAlgorithms
+# SharpAlgorithms
 
 
 ### Interactive Algorithms in C#
