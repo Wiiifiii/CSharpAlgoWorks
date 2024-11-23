@@ -55,7 +55,7 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Solution_Name: src/SharpAlgorithms.sln 
+      Solution_Name: SharpAlgorithms.sln 
       Wap_Project_Directory: AppPackaging
       Wap_Project_Path: AppPackaging\SharpAlgorithms.Package.wapproj
 
