@@ -63,7 +63,7 @@ Feel free to submit issues or pull requests if you'd like to contribute to this 
 License
 This project is licensed under the MIT License.
 
-MIT License
+MIT License [MIT License](https://gh.io/mit)
 
 Copyright (c) 2024 Wiiifiii
 
