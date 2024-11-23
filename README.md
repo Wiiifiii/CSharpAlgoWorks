@@ -81,17 +81,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 
 ---
 
-### Instructions for Adding the README.md
-1. **Create a File**:
-   - Create a new file in your project root directory named `README.md`.
 
-2. **Paste the Content**:
-   - Copy the markdown content above and paste it into the `README.md` file.
-
-3. **Commit and Push**:
-   - Use the following commands to add it to your GitHub repository:
-     ```bash
-     git add README.md
      git commit -m "Add README file"
      git push
      ```
