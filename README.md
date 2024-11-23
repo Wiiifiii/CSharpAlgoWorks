@@ -82,7 +82,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 ---
 
 
-     git commit -m "Add README file"
-     git push
-     ```
-
